@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @FroslanZX
-- 👀 I’m interested in ... Programming and videogames
+- 👋 Hi, I’m @Froslan
+- 👀 I’m interested in ... Programming and videogames like Roblox
 - 🌱 I’m currently learning ... Progamation
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💞️ I’m looking to collaborate on .
+- 😄 Pronouns: froslan/fros (he/him)
+- ⚡ Fun fact: i play roblox
 
 <!---
 FroslanZX/FroslanZX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
