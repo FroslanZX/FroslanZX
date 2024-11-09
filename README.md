@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Froslan
+- 👋 Hi, I’m @FroslanZX
 - 👀 I’m interested in ... Programming and videogames like Roblox
 - 🌱 I’m currently learning ... Progamation
 - 💞️ I’m looking to collaborate on .
